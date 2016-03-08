@@ -7,7 +7,7 @@ title: Continuous Deployment
 subtitle:
 description:
 author: Daniel Atkinson
-language:
+language: en
 timezone:
 
 # URL
@@ -69,3 +69,6 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Theme Settings
+fancybox: true

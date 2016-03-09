@@ -1,0 +1,4 @@
+build:
+  image: node:latest
+  commands:
+    - node --version
